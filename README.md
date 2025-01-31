@@ -1,4 +1,3 @@
-"# SCT_SD_4" 
 # Web Scraper for Test E-commerce Site
 
 ## Overview
